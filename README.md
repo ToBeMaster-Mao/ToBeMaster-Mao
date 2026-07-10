@@ -72,15 +72,15 @@
 <div align="center">
 
 <a href="https://github.com/ToBeMaster-Mao">
-  <img height="190" src="https://github-stats-extended.vercel.app/api?username=ToBeMaster-Mao&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=LazyCatttt%27s%20GitHub%20Stats" alt="LazyCatttt GitHub stats" />
+  <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt GitHub stats" />
 </a>
 <a href="https://github.com/ToBeMaster-Mao?tab=repositories">
-  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ToBeMaster-Mao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=360&custom_title=Public%20Code%20Languages" alt="LazyCatttt public languages" />
+  <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt public languages" />
 </a>
 
 <br />
 
-<img width="780" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt GitHub profile summary" />
+<img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt GitHub profile summary" />
 
 </div>
 
@@ -101,16 +101,16 @@
 <div align="center">
 
 <a href="https://github.com/ToBeMaster-Mao/xingyun-ai">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=xingyun-ai&theme=tokyonight&hide_border=true&border_radius=10" alt="xingyun-ai" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=xingyun-ai&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="xingyun-ai" />
 </a>
 <a href="https://github.com/ToBeMaster-Mao/prepare-handoff-skill">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=prepare-handoff-skill&theme=tokyonight&hide_border=true&border_radius=10" alt="prepare-handoff-skill" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=prepare-handoff-skill&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="prepare-handoff-skill" />
 </a>
 <a href="https://github.com/ToBeMaster-Mao/agent-mentor-notes-skill">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes-skill&theme=tokyonight&hide_border=true&border_radius=10" alt="agent-mentor-notes-skill" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes-skill&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="agent-mentor-notes-skill" />
 </a>
 <a href="https://github.com/ToBeMaster-Mao/agent-mentor-notes">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes&theme=tokyonight&hide_border=true&border_radius=10" alt="agent-mentor-notes" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="agent-mentor-notes" />
 </a>
 
 </div>
