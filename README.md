@@ -17,9 +17,10 @@
 
 ## 关于我
 
-我是 LazyCatttt，偏爱把 AI 能力做成清楚、可靠、可交接的工程资产。  
-最近在写多模态 AI 接入、Agent 工作流、经验沉淀工具，也在维护自己的个人站和内容系统。
+我是 LazyCatttt，一位有点文邹邹的程序员，偏爱把 AI 能力做成清楚、可靠、可交接的工程资产。
+最近，我在折腾多模态 AI、Agent 工作流和经验沉淀工具，也持续维护着自己的个人站与内容系统。通过 Vibe Coding，我正尝试与大模型协作，把脑海中一个个模糊的想法，逐渐变成真实、可用的产品。
 
+- 喜欢 AI，闲时喜欢捣鼓各种 LLM 以及好玩的 AI Agent。
 - 关注 `AI Agent`、多模态服务、Spring Boot Starter、技能/插件工作流与个人知识系统
 - 喜欢把复杂流程拆成小接口、可验证状态、清晰文档和可重复运行的工具
 - 常用 `Java`、`Python`、`FastAPI`、`Spring Boot`、`RabbitMQ`、`Docker` 和 GitHub Actions
