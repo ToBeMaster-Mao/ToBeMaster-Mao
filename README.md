@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
-  <img width="900" src="./assets/profile-header.svg" alt="LazyCatttt · 浮生 · 樱花粉个人主页" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E58AA2,55:F4A7B9,100:FADBE6&text=LazyCatttt&fontAlign=50&fontAlignY=36&fontColor=7C3150&fontSize=58&desc=AI%20Tooling%20%C2%B7%20Multimodal%20Services%20%C2%B7%20Agent%20Workflows&descAlign=50&descAlignY=61&animation=twinkling" alt="LazyCatttt" />
 
 <br />
 
@@ -36,16 +33,16 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-F4A7B9?style=for-the-badge&logo=openjdk&logoColor=7C3150)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F6BCCF?style=for-the-badge&logo=springboot&logoColor=7C3150)
-![Python](https://img.shields.io/badge/Python-F4A7B9?style=for-the-badge&logo=python&logoColor=7C3150)
-![FastAPI](https://img.shields.io/badge/FastAPI-C7EBE6?style=for-the-badge&logo=fastapi&logoColor=277E82)
-![JavaScript](https://img.shields.io/badge/JavaScript-F6E3B5?style=for-the-badge&logo=javascript&logoColor=8C6A2D)
-![Docker](https://img.shields.io/badge/Docker-C7EBE6?style=for-the-badge&logo=docker&logoColor=277E82)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F6BCCF?style=for-the-badge&logo=rabbitmq&logoColor=7C3150)
-![Redis](https://img.shields.io/badge/Redis-F4A7B9?style=for-the-badge&logo=redis&logoColor=7C3150)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F6BCCF?style=for-the-badge&logo=github-actions&logoColor=7C3150)
-![Markdown](https://img.shields.io/badge/Markdown-EEDCE5?style=for-the-badge&logo=markdown&logoColor=795069)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -103,10 +100,6 @@
 ## 贡献足迹
 
 <div align="center">
-
-<sub>把每一次提交，留成一枚樱色的足迹。</sub>
-
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake-sakura-dark.svg" />
