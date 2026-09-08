@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">LazyCatttt profile header, night edition</title>
+  <desc id="desc">A deep blue black night-note profile banner with soft sakura pink blossoms, aqua and honey gold details.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1220"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#171624"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff9fbe"/>
+      <stop offset="0.53" stop-color="#f6d88a"/>
+      <stop offset="1" stop-color="#7de4e4"/>
+    </linearGradient>
+    <radialGradient id="moon-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff9fbe" stop-opacity="0.13"/>
+      <stop offset="0.54" stop-color="#7de4e4" stop-opacity="0.045"/>
+      <stop offset="1" stop-color="#0f1523" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="night-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#f1f6ff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <g id="sakura">
+      <path d="M0-3C-12-13-10-26 0-31C10-26 12-13 0-3Z"/>
+      <path d="M0-3C-12-13-10-26 0-31C10-26 12-13 0-3Z" transform="rotate(72)"/>
+      <path d="M0-3C-12-13-10-26 0-31C10-26 12-13 0-3Z" transform="rotate(144)"/>
+      <path d="M0-3C-12-13-10-26 0-31C10-26 12-13 0-3Z" transform="rotate(216)"/>
+      <path d="M0-3C-12-13-10-26 0-31C10-26 12-13 0-3Z" transform="rotate(288)"/>
+      <circle r="4.5"/>
+    </g>
+    <path id="petal" d="M0 0C-8-4-10-13-4-18C4-16 8-8 0 0Z"/>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="238" rx="22" fill="url(#night)" stroke="#ff9fbe" stroke-opacity="0.28" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="236" rx="21" fill="url(#night-grid)"/>
+  <ellipse cx="764" cy="115" rx="151" ry="139" fill="url(#moon-glow)"/>
+  <circle cx="770" cy="112" r="78" fill="#f1f6ff" fill-opacity="0.025" stroke="#ff9fbe" stroke-opacity="0.12"/>
+  <circle cx="770" cy="112" r="66" fill="none" stroke="#f6d88a" stroke-opacity="0.16"/>
+
+  <path d="M40 52V188" stroke="#ff9fbe" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="40" cy="45" r="3.5" fill="#7de4e4"/>
+  <circle cx="40" cy="195" r="3.5" fill="#f6d88a"/>
+
+  <text x="70" y="58" fill="#ff9fbe" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.1">PERSONAL NOTES · AI CRAFT</text>
+  <text x="68" y="116" fill="#fff1f6" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="750" letter-spacing="0.8">LazyCatttt</text>
+  <rect x="70" y="130" width="410" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="70" y="158" fill="#dfe7f5" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600" letter-spacing="1.25">AI Tooling · Multimodal Services · Agent Workflows</text>
+
+  <g transform="translate(70 177)">
+    <rect width="132" height="30" rx="15" fill="#ff9fbe" fill-opacity="0.07" stroke="#ff9fbe" stroke-opacity="0.34"/>
+    <circle cx="16" cy="15" r="4" fill="#7de4e4"/>
+    <text x="29" y="20" fill="#ffc3d6" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="12" font-weight="700" letter-spacing="1">浮生 / 在路上</text>
+  </g>
+  <path d="M221 192H492" stroke="#ffbdd2" stroke-opacity="0.16"/>
+  <circle cx="502" cy="192" r="2.5" fill="#f6d88a"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M626 205C680 184 707 150 738 120C765 94 799 69 856 48" stroke="#f6d88a" stroke-opacity="0.54" stroke-width="2.2"/>
+    <path d="M706 153C689 134 678 117 677 96" stroke="#f6d88a" stroke-opacity="0.36" stroke-width="1.6"/>
+    <path d="M768 93C789 102 808 111 828 130" stroke="#f6d88a" stroke-opacity="0.32" stroke-width="1.5"/>
+  </g>
+
+  <g transform="translate(752 107) scale(.92)" fill="#ff9fbe" fill-opacity="0.34" stroke="#ff9fbe" stroke-width="1.2">
+    <use href="#sakura"/>
+  </g>
+  <g transform="translate(826 63) scale(.56)" fill="#f6d88a" fill-opacity="0.23" stroke="#f6d88a" stroke-width="1.8">
+    <use href="#sakura"/>
+  </g>
+  <g transform="translate(682 104) scale(.42)" fill="#7de4e4" fill-opacity="0.2" stroke="#7de4e4" stroke-width="2.1">
+    <use href="#sakura"/>
+  </g>
+
+  <g fill="#ff9fbe" fill-opacity="0.46">
+    <use href="#petal" transform="translate(844 152) rotate(38) scale(.62)"/>
+    <use href="#petal" transform="translate(797 180) rotate(-18) scale(.48)"/>
+    <use href="#petal" transform="translate(647 83) rotate(68) scale(.42)"/>
+  </g>
+  <g fill="none" stroke="#7de4e4" stroke-linecap="round" stroke-opacity="0.62">
+    <path d="M862 181v14M855 188h14"/>
+    <path d="M615 68v10M610 73h10"/>
+  </g>
+  <text x="855" y="218" text-anchor="end" fill="#dfe7f5" fill-opacity="0.38" font-family="Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="2">SOMEWHERE ALONG THE WAY</text>
+</svg>

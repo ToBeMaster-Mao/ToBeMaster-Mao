@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,55:7C3AED,100:06B6D4&text=LazyCatttt&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=58&desc=AI%20Tooling%20%C2%B7%20Multimodal%20Services%20%C2%B7%20Agent%20Workflows&descAlign=50&descAlignY=61&animation=twinkling" alt="LazyCatttt" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg" />
+  <img width="900" src="./assets/profile-header.svg" alt="LazyCatttt · 浮生 · 樱花粉个人主页" />
+</picture>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+AI+systems+with+taste+and+traces;Designing+agent+workflows+that+survive+handoff;Shipping+small+tools%2C+clear+docs%2C+and+warm+interfaces" alt="Typing introduction" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=FF9FBE&center=true&vCenter=true&width=820&lines=Building+AI+systems+with+taste+and+traces;Designing+agent+workflows+that+survive+handoff;Shipping+small+tools%2C+clear+docs%2C+and+warm+interfaces" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=C65E83&center=true&vCenter=true&width=820&lines=Building+AI+systems+with+taste+and+traces;Designing+agent+workflows+that+survive+handoff;Shipping+small+tools%2C+clear+docs%2C+and+warm+interfaces" alt="Typing introduction" />
+</picture>
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ToBeMaster-Mao&style=flat&color=7c3aed)](https://github.com/ToBeMaster-Mao)
-[![Followers](https://img.shields.io/github/followers/ToBeMaster-Mao?label=Followers&style=flat&color=06b6d4)](https://github.com/ToBeMaster-Mao?tab=followers)
-[![Website](https://img.shields.io/badge/Blog-maozm.art-7C3AED?style=flat&logo=firefox-browser&logoColor=white)](https://maozm.art/)
-[![Repos](https://img.shields.io/badge/Repos-Explore-0F172A?style=flat&logo=github&logoColor=white)](https://github.com/ToBeMaster-Mao?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=ToBeMaster-Mao&style=flat&color=F4A7B9)](https://github.com/ToBeMaster-Mao)
+[![Followers](https://img.shields.io/github/followers/ToBeMaster-Mao?label=Followers&style=flat&color=9DDDD7&labelColor=FFF0F5)](https://github.com/ToBeMaster-Mao?tab=followers)
+[![Website](https://img.shields.io/badge/Blog-maozm.art-F4A7B9?style=flat&logo=firefox-browser&logoColor=7C3150&labelColor=FFF0F5)](https://maozm.art/)
+[![Repos](https://img.shields.io/badge/Repos-Explore-F6E3B5?style=flat&logo=github&logoColor=8C6A2D&labelColor=FFF0F5)](https://github.com/ToBeMaster-Mao?tab=repositories)
 
 </div>
 
@@ -30,16 +36,16 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F4A7B9?style=for-the-badge&logo=openjdk&logoColor=7C3150)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F6BCCF?style=for-the-badge&logo=springboot&logoColor=7C3150)
+![Python](https://img.shields.io/badge/Python-F4A7B9?style=for-the-badge&logo=python&logoColor=7C3150)
+![FastAPI](https://img.shields.io/badge/FastAPI-C7EBE6?style=for-the-badge&logo=fastapi&logoColor=277E82)
+![JavaScript](https://img.shields.io/badge/JavaScript-F6E3B5?style=for-the-badge&logo=javascript&logoColor=8C6A2D)
+![Docker](https://img.shields.io/badge/Docker-C7EBE6?style=for-the-badge&logo=docker&logoColor=277E82)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F6BCCF?style=for-the-badge&logo=rabbitmq&logoColor=7C3150)
+![Redis](https://img.shields.io/badge/Redis-F4A7B9?style=for-the-badge&logo=redis&logoColor=7C3150)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F6BCCF?style=for-the-badge&logo=github-actions&logoColor=7C3150)
+![Markdown](https://img.shields.io/badge/Markdown-EEDCE5?style=for-the-badge&logo=markdown&logoColor=795069)
 
 </div>
 
@@ -73,15 +79,24 @@
 <div align="center">
 
 <a href="https://github.com/ToBeMaster-Mao">
-  <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4&amp;chart_color=f4a7b9" />
+    <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5&amp;chart_color=e58aa2" alt="LazyCatttt GitHub stats" />
+  </picture>
 </a>
 <a href="https://github.com/ToBeMaster-Mao?tab=repositories">
-  <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt public languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4&amp;chart_color=f4a7b9" />
+    <img width="413" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5&amp;chart_color=e58aa2" alt="LazyCatttt public languages" />
+  </picture>
 </a>
 
 <br />
 
-<img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToBeMaster-Mao&theme=tokyonight" alt="LazyCatttt GitHub profile summary" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4&amp;chart_color=f4a7b9" />
+  <img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToBeMaster-Mao&amp;theme=default&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5&amp;chart_color=e58aa2" alt="LazyCatttt GitHub profile summary" />
+</picture>
 
 </div>
 
@@ -89,10 +104,14 @@
 
 <div align="center">
 
+<sub>把每一次提交，留成一枚樱色的足迹。</sub>
+
+<br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake-sakura-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake-sakura.svg" />
+  <img width="830" alt="GitHub 贡献足迹 · 樱花粉贪吃蛇" src="https://raw.githubusercontent.com/ToBeMaster-Mao/ToBeMaster-Mao/output/github-contribution-grid-snake-sakura.svg" />
 </picture>
 
 </div>
@@ -102,16 +121,28 @@
 <div align="center">
 
 <a href="https://github.com/ToBeMaster-Mao/xingyun-ai">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=xingyun-ai&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="xingyun-ai" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=xingyun-ai&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4" />
+    <img width="413" src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=xingyun-ai&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5" alt="xingyun-ai" />
+  </picture>
 </a>
 <a href="https://github.com/ToBeMaster-Mao/prepare-handoff-skill">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=prepare-handoff-skill&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="prepare-handoff-skill" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=prepare-handoff-skill&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4" />
+    <img width="413" src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=prepare-handoff-skill&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5" alt="prepare-handoff-skill" />
+  </picture>
 </a>
 <a href="https://github.com/ToBeMaster-Mao/agent-mentor-notes-skill">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes-skill&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="agent-mentor-notes-skill" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=agent-mentor-notes-skill&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4" />
+    <img width="413" src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=agent-mentor-notes-skill&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5" alt="agent-mentor-notes-skill" />
+  </picture>
 </a>
 <a href="https://github.com/ToBeMaster-Mao/agent-mentor-notes">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&repo=agent-mentor-notes&theme=tokyonight&hide_border=true&border_radius=10&card_width=413&description_lines_count=3" alt="agent-mentor-notes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=agent-mentor-notes&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=0f1521&amp;title_color=ff9fbe&amp;text_color=dce2ee&amp;border_color=473243&amp;icon_color=7de4e4" />
+    <img width="413" src="https://github-stats-extended.vercel.app/api/pin/?username=ToBeMaster-Mao&amp;repo=agent-mentor-notes&amp;theme=rose&amp;hide_border=false&amp;border_radius=8&amp;card_width=413&amp;description_lines_count=3&amp;bg_color=fff8fb&amp;title_color=c45e82&amp;text_color=5b4650&amp;border_color=f2cedd&amp;icon_color=3dbfc5" alt="agent-mentor-notes" />
+  </picture>
 </a>
 
 </div>
@@ -120,14 +151,17 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ToBeMaster--Mao-181717?style=for-the-badge&logo=github)](https://github.com/ToBeMaster-Mao)
-[![Blog](https://img.shields.io/badge/Blog-maozm.art-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://maozm.art/)
-[![Website](https://img.shields.io/badge/Website-maozm.xyz-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maozm.xyz/)
+[![GitHub](https://img.shields.io/badge/GitHub-ToBeMaster--Mao-F4A7B9?style=for-the-badge&logo=github&logoColor=7C3150)](https://github.com/ToBeMaster-Mao)
+[![Blog](https://img.shields.io/badge/Blog-maozm.art-F4A7B9?style=for-the-badge&logo=firefox-browser&logoColor=7C3150)](https://maozm.art/)
+[![Website](https://img.shields.io/badge/Website-maozm.xyz-C7EBE6?style=for-the-badge&logo=googlechrome&logoColor=277E82)](https://maozm.xyz/)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,45:7C3AED,100:0F172A&section=footer" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0F1521,45:8C496A,100:1C2933&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:FFF1F6,45:F4A7B9,100:FBE8DC&section=footer" alt="" />
+</picture>
 
 </div>
